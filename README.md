@@ -35,4 +35,4 @@ This repository contains three Jupyter Notebook files designed for processing ti
 To run the notebooks, you need to have the following libraries installed:
 
 ```bash
-pip install tensorflow keras
+pip install tensorflow
