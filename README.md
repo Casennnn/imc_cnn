@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains three Jupyter Notebook files designed for processing time series data, training a convolutional neural network (CNN), and visualizing the results. The project focuses on identifying local peaks and troughs in the data using various features and neural network techniques.
+This repository contains three Jupyter Notebook files designed for processing time series data, training a convolutional neural network (CNN), and visualizing the results. The project focuses on identifying local peaks and troughs in the data using various features and neural network techniques. It is my personal work during the [IMC Prosperity3 Challenge](https://prosperity.imc.com/).
 
 ## Files
 
